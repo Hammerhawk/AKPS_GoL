@@ -1,0 +1,3 @@
+1. g++ -c xyz.cc -> xyz.o
+2. g++ -o xyz xyz.o 
+3. ./ xyz
